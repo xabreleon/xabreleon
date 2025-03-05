@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xabreleon
-- 👀 I’m interested in Node, dart, sql
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in Node, blazor, sql, Python
+- 🌱 I’m currently learning TypeScript, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : nurdin.hartanto@gmail.com
